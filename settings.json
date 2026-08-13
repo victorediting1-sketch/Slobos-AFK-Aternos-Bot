@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Lordvictor.aternos.me:27326",
+    "port": 27326,
     "version": "",
     "try-creative": false
   },
