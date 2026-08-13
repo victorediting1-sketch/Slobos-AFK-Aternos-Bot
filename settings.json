@@ -9,7 +9,7 @@
     "ip": "Lordvictor.aternos.me:27326",
     "port": 27326,
     "version": "26.2",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
